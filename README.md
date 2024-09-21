@@ -35,7 +35,3 @@ Cada diretório contém um README detalhado que explica o funcionamento do códi
 
 ## Contribuições
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou um pull request.
-
----
-
-Se precisar de mais modificações ou adicionar novos tópicos, é só avisar!
