@@ -48,4 +48,4 @@ void loop() {
 3. Utilize a protoboard e os fios de conexão para organizar o circuito.
 
 ## Diagrama
-![hsuydyg](
+![hsuydyg](https://github.com/yan1415/ATIVIDADES_LIA/blob/main/Luzes%20de%20sinaliza%C3%A7%C3%A3o%20de%20Garagem/Cool%20Esboo-Stantia%20(2).png)
