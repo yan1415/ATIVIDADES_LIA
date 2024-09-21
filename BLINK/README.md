@@ -29,4 +29,4 @@ void loop() {
 3. Utilize os fios de conexão para organizar as conexões.
 
 ## Diagrama
-![shhs](
+![shhs](https://github.com/yan1415/ATIVIDADES_LIA/blob/main/BLINK/Cool%20Esboo-Stantia%20(1).png)
