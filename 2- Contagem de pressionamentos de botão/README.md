@@ -38,4 +38,4 @@ void loop() {
 4. Utilize a protoboard e os fios de conexão para organizar o circuito.
 
 ## Diagrama
-![ha](
+![ha](https://github.com/yan1415/ATIVIDADES_LIA/blob/main/2-%20Contagem%20de%20pressionamentos%20de%20bot%C3%A3o/Cool%20Esboo-Stantia.png)
