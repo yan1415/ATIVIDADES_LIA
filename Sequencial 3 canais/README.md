@@ -46,4 +46,4 @@ void loop() {
 4. Utilize a protoboard e os fios de conexão para organizar o circuito.
 
 ## Diagrama
-![sgyij](
+![sgyij](https://github.com/yan1415/ATIVIDADES_LIA/blob/main/Sequencial%203%20canais/Cool%20Esboo-Stantia%20(3).png)
