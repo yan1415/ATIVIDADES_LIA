@@ -37,6 +37,7 @@ void loop() {
 }
 ```
 
+
 ## Materiais Necessários
 - **1 Botão**
 - **1 Resistor (10 kΩ, para pull-up)**
@@ -49,3 +50,7 @@ void loop() {
 2. Conecte o outro terminal do botão a uma fonte de 5V.
 3. Conecte um resistor de 10 kΩ entre o pino 2 e o GND para configurar o resistor pull-up.
 4. Utilize a protoboard e os fios de conexão para organizar o circuito.
+
+
+## Diagrama
+![aka](https://github.com/yan1415/ATIVIDADES_LIA/blob/main/1%20-Ligar%20e%20desligar%20o%20LED%20com%20o%20bot%C3%A3o/Cool%20Esboo-Stantia.png)_
