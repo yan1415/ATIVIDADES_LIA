@@ -33,5 +33,3 @@ Este diretório reúne o projeto final, que aplica os conceitos abordados durant
 Explore os diretórios acima para acessar os códigos e documentações de cada exercício ou projeto.  
 Cada diretório contém um README detalhado que explica o funcionamento do código e fornece diretrizes para sua execução.
 
-## Contribuições
-Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou um pull request.
