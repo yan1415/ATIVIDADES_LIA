@@ -4,6 +4,9 @@ Este repositório é uma coleção de projetos e exercícios desenvolvidos ao lo
 ## Utilizando o Tinkercad
 Os diagramas deste repositório são elaborados com o Tinkercad, uma ferramenta online eficaz para simulação e design 3D. O Tinkercad é ideal para prototipagem rápida, permitindo visualizar e testar circuitos antes da montagem física.
 
+## O que é o Tinkercad?
+O Tinkercad é uma plataforma gratuita da Autodesk que disponibiliza ferramentas para design de circuitos, modelagem 3D e programação de microcontroladores como o Arduino. É uma solução acessível que permite aos usuários criar, simular e compartilhar projetos de eletrônica e design 3D diretamente no navegador.
+
 ## Estrutura de Diretórios
 **Exercicio_em_Sala_1 : Programa BLINK**  
 Diretório dedicado ao primeiro exercício realizado em sala de aula.
