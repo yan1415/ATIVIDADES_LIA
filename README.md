@@ -1,4 +1,4 @@
-# Repositório de Projetos e Exercícios da Disciplina
+# Repositório de Projetos
 Este repositório é uma coleção de projetos e exercícios desenvolvidos ao longo da disciplina. Cada diretório a seguir refere-se a um exercício realizado em sala de aula, em casa ou ao projeto final da disciplina.
 
 ## Utilizando o Tinkercad
