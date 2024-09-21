@@ -38,4 +38,4 @@ void loop() {
 4. Utilize a protoboard e os fios de conexão para organizar o circuito.
 
 ## Diagrama
-![hdh](
+![hdh](https://github.com/yan1415/ATIVIDADES_LIA/blob/main/Enviando%20dados%20para%20porta%20serial/Cool%20Esboo-Stantia.png)
